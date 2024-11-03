@@ -1,5 +1,4 @@
 #include <Arduino.h>
-#include <cstdarg>
 
 const int PIN_A  = 11;
 const int PIN_B  = 7;
